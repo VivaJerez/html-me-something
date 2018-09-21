@@ -5,6 +5,23 @@ body {
     font-size: 110%;
   }
 
-h1 {
+header {
     font-size: 400%;
 }
+
+footer {
+    font-size: 70%;
+}
+
+article {
+    
+    padding-top: 30px;
+    padding-bottom: 25px;
+    
+}
+
+.storm {
+
+    color: darkblue;
+    padding: 30px;
+} 
